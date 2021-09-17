@@ -1,0 +1,61 @@
+* {
+    font-family: "楷体";
+    padding: 0;
+    margin: 0;
+}
+
+
+.film_lable {
+    margin-left: 110px;
+    width: 100%;
+    height: 50px;
+    /* background: skyblue; */
+    padding: 0 50px;
+    margin-bottom: 30px;
+    margin-top: -4px;
+}
+.film_lable h4 {
+    width: 300px;
+    height: 50px;
+    font-weight: 10;
+    font-family: '宋体';
+    line-height: 50px;
+    font-size: 46px;
+    background-color: rgba(235, 219, 219, 0.5);
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+
+.film_detail {
+    width: 1200px;
+    height: 405px;
+    border-radius: 50px;
+    margin: auto;
+    background: rgba(173, 216, 233, .7);
+    box-shadow: -4px -4px 12px rgb(180, 207, 96), 4px 4px 12px rgba(70, 71, 69, 0.747);
+
+}
+
+.film_detail .shipin {
+    float: left;
+    width: 60%;
+    height: 100%;
+}
+
+.film_detail .shipin video {
+    width: 100%;
+}
+
+.film_detail .jianjie {
+    float: left;
+    width: 40%;
+    padding: 10px;
+}
+
+.film_detail .jianjie p  {
+    font-size: 19px;
+    font-family: '宋体';
+}
+

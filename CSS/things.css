@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    width: 800px;
+    height: 50px;
+    border-radius: 15px;
+    box-shadow: -4px -4px 12px rgb(228, 227, 225), 4px 4px 12px rgba(184, 184, 184, 0.747);
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    margin-top: 100px;
+    background-color: aliceblue;
+}
+.thin{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    margin-top: 180px;
+ width: 800px;
+ height: 640px;
+background-image: url("../IMGES/thin.jpg");
+background-size:contain;
+
+ border-radius: 15px;
+ box-shadow: -4px -4px 12px rgb(80, 78, 82), 4px 4px 12px rgba(121, 130, 160, 0.747);
+ font-weight: 100;
+}
+.thing{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    margin-top: 200px;
+ width: 600px;
+ height: 600px;
+ background-color: rgba(248, 211, 3, 0.726);
+ border-radius: 15px;
+ box-shadow: -4px -4px 12px rgb(168, 157, 182), 4px 4px 12px rgba(194, 247, 4, 0.795);
+ background-color: rgba(224, 225, 230, 0.747);
+}
